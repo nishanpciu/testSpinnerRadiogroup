@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">testSpinnerRadiogroup</string>
+    <string-array name="disease_syndrome">
+        <item>Patient</item>
+        <item>Specialist</item>
+        <item>ShopOwner</item>
+
+
+    </string-array>
+
+</resources>
